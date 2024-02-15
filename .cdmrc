@@ -1,3 +1,2 @@
 tabs: ['index.html','style.css','script.js']
-terminal-one: static-server -p 1337 --no-cache
-live-reload-browser: true
+terminals: ['static-server -p 1337 --no-cache']
